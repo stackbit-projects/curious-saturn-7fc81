@@ -70,7 +70,7 @@ sections:
     submit_label: Send Message
 seo:
   title: Contact Page
-  description: This is the contact page
+  description: 'Op deze pagina kunt u contact opnemen met {} via telefoon of'
   extra:
     - name: 'og:type'
       value: website
