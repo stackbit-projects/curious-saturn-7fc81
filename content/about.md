@@ -1,6 +1,6 @@
 ---
 title: Ons Verhaal
-hide_title: false
+hide_title: true
 sections:
   - type: content_section
     content: >-
